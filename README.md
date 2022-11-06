@@ -1,7 +1,7 @@
 ## Olá, eu sou o Espedito Ferreira Alves🙂!
 Seja muito bem vindo ao meu repósitorio de portifólios 😁✌️!!
 
-- Atualmente estou trabalhando com ciência de dados, ainda sou iniciante na area muito estou muito ansioso para ganhar mais conhecimento.
+- Atualmente estou trabalhando com ciência de dados, ainda sou iniciante na area muito mas estou interessado para ganhar mais conhecimento.
 
 <div align="center">
   <a href="https://github.com/espeditoalves">
