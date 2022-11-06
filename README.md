@@ -9,7 +9,7 @@ Seja muito bem vindo ao meu repósitorio de portifólios 😁✌️!!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Linguagem de programação que conheço e atuo
+## Linguagem de programação
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Espedito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
