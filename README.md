@@ -21,9 +21,9 @@ Atualmente estou trabalhando com ciência de dados, ainda sou iniciante na area 
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+[![Gmail Badge](https://img.shields.io/badge/-{espeditoalves@usp.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{espeditoalves@usp.br})](mailto:{espeditoalves@usp.br})
+[![Linkedin: Espedito](https://img.shields.io/badge/-espedito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/espedito-ferreira-alves/)](www.linkedin.com/in/espedito-ferreira-alves)
+
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
 
