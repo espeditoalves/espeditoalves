@@ -25,5 +25,25 @@ Atualmente estou trabalhando com ciência de dados, ainda sou iniciante na area 
 [![Linkedin: Espedito](https://img.shields.io/badge/-espedito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/espedito-ferreira-alves/)](www.linkedin.com/in/espedito-ferreira-alves)
 
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 
+## 📚 Cursos realizados
+
+### Programação
+1. [**Python: Boas práticas de código com PEP8**](https://cursos.alura.com.br/course/pep8-linters-python)
+2. [**Git e Github: Controle e compartilhe seu código**](https://cursos.alura.com.br/course/git-github-controle-de-versao)
+3. [**Python: Entendendo a Orientação a Objetos**]()
+4. [**Python: Avançando na Orientação a Objetos**]()
+5. *Power BI*
+
+
+### Ciência de Dados
+1. [**Data Science: Analise e Visualização de dados**](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+2. [**Python Pandas: Tratando e Analisando Dados**](https://cursos.alura.com.br/course/introducao-python-pandas)
+3. [**Spark: Apresentando a Ferramenta**](https://cursos.alura.com.br/course/spark-apresentando-ferramenta)
+4. [**Spark: Trabalhando com regressão**]()
+5. [**Spark: Criando modelos de Classificação**]()
+6. [**Fundamentos de Python para análise de Dados e Data science**]()
+7. [**Fundamentos de ETL com python**]()
+
+<br><br>
 
