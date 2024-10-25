@@ -5,7 +5,7 @@
 </p><br><br>
 Seja muito bem vindo ao meu repósitorio de portifólios 😁✌️!!
 
-Atualmente estou trabalhando com ciência de dados, ainda sou iniciante na area mas estou interessado em ganhar mais conhecimento.
+Atualmente estou trabalhando com ciência de dados, ainda sou iniciante aqui mas estou interessado em ganhar mais conhecimento.
 
 <div align="center">
   <a href="https://github.com/espeditoalves">
