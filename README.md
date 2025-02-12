@@ -23,7 +23,7 @@ Explore à vontade e sinta-se livre para contribuir ou deixar seu feedback!
 [![My Skills](https://skillicons.dev/icons?i=python,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github, )](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postgres,md)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
