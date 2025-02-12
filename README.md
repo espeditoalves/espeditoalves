@@ -4,7 +4,12 @@
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 Seja muito bem-vindo à minha página no GitHub 😁✌️!!
-Atualmente, estou trabalhando com Ciência de Dados, e aqui você vai encontrar repositórios de estudos, treinamentos, análises exploratórias e de modelos de machine learning, supervisionados e não supervisionados, além de ver alguns projetos que desenvolvi e deixei salvos aqui na plataforma.
+
+Atualmente, estou trabalhando com Ciência de Dados, 
+e aqui você vai encontrar repositórios de estudos, 
+treinamentos, análises exploratórias e de modelos de machine learning, 
+supervisionados e não supervisionados, além de ver alguns projetos que desenvolvi 
+e deixei salvos aqui na plataforma.
 Explore à vontade e sinta-se livre para contribuir ou deixar seu feedback!
 
 
