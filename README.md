@@ -1,16 +1,27 @@
-<h1 align="center">👋 Olá, eu sou Espedito </h1>
+<h1 align="center">👋 Olá, eu sou o Espedito</h1> 
+<p align="center"> 
+💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia e Ciência de Dados
+</p>
+<br><br>
+Seja muito bem-vindo à minha página no GitHub! 😁✌️
 
-<p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
-</p><br><br>
-Seja muito bem-vindo à minha página no GitHub 😁✌️!!
+Sou Matemático e Programador com foco em Ciência de Dados. 
 
-Atualmente, estou trabalhando com Ciência de Dados, 
-e aqui você vai encontrar repositórios de estudos, 
-treinamentos, análises exploratórias e de modelos de machine learning, 
-supervisionados e não supervisionados, além de ver alguns projetos que desenvolvi 
-e deixei salvos aqui na plataforma.
-Explore à vontade e sinta-se livre para contribuir ou deixar seu feedback!
+Desde 2020, atuo diretamente com grandes volumes de dados, desenvolvendo `análises exploratórias`, `dashboards` interativos e `modelos preditivos` utilizando ``técnicas de Machine Learning``.
+
+Minha trajetória é movida pela busca constante por inovação: procuro aplicar meu conhecimento técnico em projetos que rompam o convencional e gerem impactos reais. Essa paixão me levou a mergulhar na Ciência de Dados, iniciando uma jornada fascinante de aprendizado e descobertas.
+
+Aqui você encontrará:
+
+- **`Estudos sobre Ciência de Dados e Programação`**
+- **`Treinamentos práticos e aplicações técnicas`**
+- **`Análises exploratórias de dados`**
+- Projetos de Machine Learning:
+  - **`Modelos supervisionados`**
+  - **`Modelos não supervisionados`**
+- Projetos pessoais documentados na plataforma
+
+Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
 <div align="center">
@@ -20,36 +31,30 @@ Explore à vontade e sinta-se livre para contribuir ou deixar seu feedback!
 </div>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,postgres)](https://skillicons.dev)<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark logo" width="80"/>
+
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postgres,md)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,md,docker,sklearn)](https://skillicons.dev)<br><br>
+
 
 ## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-{espeditoalves@usp.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{espeditoalves@usp.br})](mailto:{espeditoalves@usp.br})
-[![Linkedin: Espedito](https://img.shields.io/badge/-espedito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/espedito-ferreira-alves/)](www.linkedin.com/in/espedito-ferreira-alves)
-
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 
-## 📚 Cursos realizados
-
-### Programação
-1. [**Python: Boas práticas de código com PEP8**](https://cursos.alura.com.br/course/pep8-linters-python)
-2. [**Git e Github: Controle e compartilhe seu código**](https://cursos.alura.com.br/course/git-github-controle-de-versao)
-3. [**Python: Entendendo a Orientação a Objetos**]()
-4. [**Python: Avançando na Orientação a Objetos**]()
-5. *Power BI*
+<p align="left">
+  <a href="mailto:espeditoalves@usp.br" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="mailto:espedito.ferreira.alves@outlook.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg" alt="Outlook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/espedito-ferreira-alves/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 
-### Ciência de Dados
-1. [**Data Science: Analise e Visualização de dados**](https://cursos.alura.com.br/course/data-science-primeiros-passos)
-2. [**Python Pandas: Tratando e Analisando Dados**](https://cursos.alura.com.br/course/introducao-python-pandas)
-3. [**Spark: Apresentando a Ferramenta**](https://cursos.alura.com.br/course/spark-apresentando-ferramenta)
-4. [**Spark: Trabalhando com regressão**]()
-5. [**Spark: Criando modelos de Classificação**]()
-6. [**Fundamentos de Python para análise de Dados e Data science**]()
-7. [**Fundamentos de ETL com python**]()
 
-<br><br>
+
+
+
 
