@@ -34,7 +34,6 @@ Aqui você encontrará:
 Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
-
 <!-- site documentação: https://github.com/anuraghazra/github-readme-stats -->
 <!-- site para testes: https://github-profile-summary-cards.vercel.app/demo.html -->
 <div align="center">
@@ -66,9 +65,14 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
     src="https://github-readme-streak-stats.herokuapp.com?user=espeditoalves&theme=tokyonight&hide_border=true&card_width=885"
   />
   </div>
+
+<br>
+
 <!-- Contador de visitantes -->
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fespeditoalves&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Contador+De+Visitas%3A++&ta=" /></p> 
+  <p align="center">
+  <img align="center" 
+  src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fespeditoalves&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Contador+De+Visitas%3A++&ta=" /></p> 
 </div>
 
 <br>
@@ -100,9 +104,11 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
 ## 🐍 Snake animation
-
+<!-- vídeo de referncia: https://www.youtube.com/watch?v=Hs9_gyGgl4E -->
 <div align= center>
-  <img src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" alt="Snake animation" />
+  <img 
+  src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" 
+  alt="Snake animation" />
 </div>
 
 
@@ -110,7 +116,9 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 ## 🏆 GitHub Trofeus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=espeditoalves&theme=algolia&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img 
+  src="https://github-profile-trophy.vercel.app/?username=espeditoalves&theme=algolia&margin-w=15&margin-h=15&no-bg=true" 
+  alt="GitHub Trophies" />
 </p>
 
 ---
@@ -119,13 +127,15 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 <!-- site gifs: https://giphy.com/ -->
 <p align="center">Obrigado por ter chego até aqui! 😄</p>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY4Ynh0aGRzYmx6c2tub3VxbHJkc3kxbDlxZ2ZtNTI2eGxoMHQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Data Science Animation" width="500"/>
+  <img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY4Ynh0aGRzYmx6c2tub3VxbHJkc3kxbDlxZ2ZtNTI2eGxoMHQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Data Science Animation" 
+  width="500"/>
 </p>
 
 
-
 <!-- 
-https://www.youtube.com/watch?v=ZN9AFHEO_-g
+PRINCIPAIS NOVIDADES E ESTATISTICAS
+vídeo de referncia: https://www.youtube.com/watch?v=ZN9AFHEO_-g
 Repositório do meu perfil - https://github.com/kamillyvm/kamillyvm
 Site das estatísticas - http://github-profile-summary-cards.vercel...
 Outro site da estatística - https://github-readme-streak-stats.herokua...
@@ -133,4 +143,5 @@ Site do imgur - https://imgur.com/
 Badges de redes sociais - https://shields.io/
 Contador de visitas - https://visit-counter.vercel.app/
 Header - https://capsule-render.vercel.app/
-Readme Typing - https://readme-typing-svg.demolab.com? -->
+Readme Typing - https://readme-typing-svg.demolab.com? 
+-->
