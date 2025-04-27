@@ -23,12 +23,15 @@ Aqui você encontrará:
 
 Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
+<br><br>
 
 <div align="center">
   <a href="https://github.com/espeditoalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espeditoalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br><br>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,postgres)](https://skillicons.dev)<br><br>
@@ -52,6 +55,8 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
   </a>
 </p>
 
+---
+<br><br>
 <div align= center>
   <img src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" alt="Snake animation" />
 </div>
