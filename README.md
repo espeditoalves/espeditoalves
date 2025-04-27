@@ -41,32 +41,33 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=espeditoalves&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=espeditoalves&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&v=1"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&hide_border=true&langs_count=16&theme=tokyonight&v=1"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=espeditoalves&theme=tokyonight"
+    alt="Profile Details"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=espeditoalves&theme=tokyonight&v=1"
   />
   <br>
   <br>
   <img
     height=154
     align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=espeditoalves&theme=tokyonight&hide_border=true&card_width=885"
+    alt="Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=espeditoalves&theme=tokyonight&hide_border=true&card_width=885&v=1"
   />
-  </div>
+</div>
 
 <br>
+
 
 <!-- Contador de visitantes -->
 <div align="center">
