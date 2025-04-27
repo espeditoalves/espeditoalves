@@ -52,6 +52,9 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
   </a>
 </p>
 
+<div align= center>
+  <img src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
