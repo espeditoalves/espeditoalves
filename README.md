@@ -1,11 +1,21 @@
-<h1 align="center">👋 Olá, eu sou o Espedito</h1> 
+
+<!--  Texto animado com "typing effect" (efeito máquina de escrever) -->
+<!-- pause=300 → só 0.3 segundos entre frases -->
+<!-- speed=50 → digitação mais rápida dos caracteres-->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=300&speed=500&color=BD93F9&center=true&width=435&lines=👋+Olá%2C+seja+bem-vindo%21;Eu+sou+o+Espedito;Matemático+e+Cientista+de+Dados;" alt="Typing SVG" />
+</h3>
+
+
 <p align="center"> 
 💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia e Ciência de Dados
 </p>
-<br><br>
-Seja muito bem-vindo à minha página no GitHub! 😁✌️
+<!-- Gifs animados -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science Animation" width="500"/>
+</p>
 
-Sou Matemático e Programador com foco em Ciência de Dados. 
+<br>
 
 Desde 2020, atuo diretamente com grandes volumes de dados, desenvolvendo `análises exploratórias`, `dashboards` interativos e `modelos preditivos` utilizando ``técnicas de Machine Learning``.
 
@@ -23,15 +33,46 @@ Aqui você encontrará:
 
 Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
-<br><br>
 
+
+<!-- site documentação: https://github.com/anuraghazra/github-readme-stats -->
+<!-- site para testes: https://github-profile-summary-cards.vercel.app/demo.html -->
 <div align="center">
-  <a href="https://github.com/espeditoalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espeditoalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&langs_count=7&theme=dracula"/>
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=espeditoalves&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=espeditoalves&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=espeditoalves&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=espeditoalves&theme=tokyonight&hide_border=true&card_width=885"
+  />
+  </div>
+<!-- Contador de visitantes -->
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fespeditoalves&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Contador+De+Visitas%3A++&ta=" /></p> 
 </div>
 
-<br><br>
+<br>
+
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,postgres)](https://skillicons.dev)<br><br>
@@ -57,13 +98,39 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 <br><br>
 
----
+
+## 🐍 Snake animation
+
 <div align= center>
   <img src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" alt="Snake animation" />
 </div>
 
 
+<!-- site trofeus:https://github.com/ryo-ma/github-profile-trophy#demo -->
+## 🏆 GitHub Trofeus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=espeditoalves&theme=algolia&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- site gifs: https://giphy.com/-->
+<!-- site gifs: https://giphy.com/ -->
+<p align="center">Obrigado por ter chego até aqui! 😄</p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY4Ynh0aGRzYmx6c2tub3VxbHJkc3kxbDlxZ2ZtNTI2eGxoMHQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Data Science Animation" width="500"/>
+</p>
 
 
 
-
+<!-- 
+https://www.youtube.com/watch?v=ZN9AFHEO_-g
+Repositório do meu perfil - https://github.com/kamillyvm/kamillyvm
+Site das estatísticas - http://github-profile-summary-cards.vercel...
+Outro site da estatística - https://github-readme-streak-stats.herokua...
+Site do imgur - https://imgur.com/
+Badges de redes sociais - https://shields.io/
+Contador de visitas - https://visit-counter.vercel.app/
+Header - https://capsule-render.vercel.app/
+Readme Typing - https://readme-typing-svg.demolab.com? -->
