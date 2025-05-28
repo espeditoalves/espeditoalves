@@ -33,6 +33,40 @@ Aqui você encontrará:
 
 Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
+<br></br>
+
+# ✅ Lista de Projetos
+
+## 📊 Análise Exploratória
+- 🔍 **[spotify-history](https://github.com/espeditoalves/spotify-history):** Este projeto tem o objetivo de realizar uma analise detalhada dos dados do meu spotify.
+- 🔍 **[titanic-ml-project](https://github.com/espeditoalves/titanic-ml-project/tree/master)** Projeto de analise exploratória de dados focado em investigar principais informações relevantes para a construção de um modelo machine learning de classificação.
+
+
+
+## 🤖 Machine Learning
+
+### 🧭 Supervisionado
+
+#### 📈 Regressão
+- 📌 **[MLBeerRegression](https://github.com/espeditoalves/MLBeerRegression):** Objetivo deste treinamento será estimar um modelo de Machine Learning utilizando a técnica de Regressão Linear para demonstrar os impactos das variáveis disponibilizadas neste dataset sobre o consumo de cerveja (Y).
+
+#### ✔️ Classificação
+- 🧩 **[MLClassifySimple](https://github.com/espeditoalves/MLClassifySimple):** Este repositório tem o objetivo de construir alguns modelos machine learning de classificação bem simples, para estudos e testes basicos.
+- 🧩 **[MLClassificationMetrics](https://github.com/espeditoalves/MLClassificationMetrics):** Este repositório foi criado para explorar as principais metricas de modelos Machine Learning de classificação supervisionada.
+- 🧩 **[sparklogimetrics](https://github.com/espeditoalves/sparklogimetrics):** Este projeto utiliza uma imagem pyspark dentro de um container docker e tem o objetivo de aplicar algumas técnicas de intervalo de confiança e testes de significância em uma base escorada por um modelo de regressão logística, usando spark para manipular e treinar os dados.
+
+---
+### 🧠 Não Supervisionado
+- 🚧 **[deploy-ml-bento](https://github.com/espeditoalves/deploy-ml-bento/tree/master):** Este projeto tem o objetivo de desenvolver o deploy de um modelo de clusterização simples usando o bentoml.
+
+---
+### 🔄 Semi-Supervisionado
+- 🚧 *em planejamento*
+
+---
+<br></br>
+
+## 📊 Estatísticas e Atividade no GitHub
 
 <!-- site documentação: https://github.com/anuraghazra/github-readme-stats -->
 <!-- site para testes: https://github-profile-summary-cards.vercel.app/demo.html -->
@@ -105,7 +139,7 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
 ## 🐍 Snake animation
-<!-- vídeo de referncia: https://www.youtube.com/watch?v=Hs9_gyGgl4E -->
+<!-- vídeo de referencia: https://www.youtube.com/watch?v=Hs9_gyGgl4E -->
 <div align= center>
   <img 
   src="https://raw.githubusercontent.com/espeditoalves/espeditoalves/output/snake.svg" 
@@ -118,7 +152,7 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 <p align="center">
   <img 
-  src="https://github-profile-trophy.vercel.app/?username=espeditoalves&theme=algolia&margin-w=15&margin-h=15&no-bg=true" 
+  src="https://github-profile-trophy.vercel.app/?username=espeditoalves&theme=algolia&margin-w=15&margin-h=15&no-bg=true&v=1" 
   alt="GitHub Trophies" />
 </p>
 
@@ -133,9 +167,13 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
   width="500"/>
 </p>
 
+<!-- Comentários -->
+<!-- &v=1 esse argumento é para atualizar de forma automatica -->
+
 
 <!-- 
 PRINCIPAIS NOVIDADES E ESTATISTICAS
+youtuber:kamomila
 vídeo de referncia: https://www.youtube.com/watch?v=ZN9AFHEO_-g
 Repositório do meu perfil - https://github.com/kamillyvm/kamillyvm
 Site das estatísticas - http://github-profile-summary-cards.vercel...
