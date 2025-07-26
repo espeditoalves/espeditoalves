@@ -103,6 +103,7 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 <br>
 
 
+
 <!-- Contador de visitantes -->
 <div align="center">
   <p align="center">
@@ -112,6 +113,18 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 <br>
 
+## ✅ Respositório pessoal de conhecimento
+
+- 📁 [Data Science Doc](https://www.notion.so/Data-Science-Doc-205c7dbdb99480bc8739e375525ca3bc)
+
+<!-- ## Meus sites
+
+- Pagina de projetos: 
+  - [Resume](https://espeditoalves.github.io/Resume_website/)
+- Documentação sobre `Ciência de dados` em **desenvolvimento**:
+  - Versão Desenvolvida em `MKDOCS`: [Data Science Doc](https://espeditoalves.github.io/DataScienceDoc/)
+  - Versão Desenvolvida em `Notion`: [Data Science Doc](https://www.notion.so/Data-Science-Doc-205c7dbdb99480bc8739e375525ca3bc) -->
+
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,postgres)](https://skillicons.dev)<br><br>
@@ -119,7 +132,9 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,md,docker,sklearn)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,md,docker,sklearn,notion)](https://skillicons.dev)<br><br>
+
+
 
 
 ## 📫 Contato
