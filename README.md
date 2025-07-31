@@ -37,6 +37,15 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 # ✅ Lista de Projetos
 
+
+## 🌐 Website Pessoal
+Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
+
+
+🔗 <a href="https://espeditoalves.github.io/Resume_website/" target="_blank">Acessar Website</a>
+
+
+
 ## 📊 Análise Exploratória
 - 🔍 **[spotify-history](https://github.com/espeditoalves/spotify-history):** Este projeto tem o objetivo de realizar uma analise detalhada dos dados do meu spotify.
 - 🔍 **[titanic-ml-project](https://github.com/espeditoalves/titanic-ml-project/tree/master)** Projeto de analise exploratória de dados focado em investigar principais informações relevantes para a construção de um modelo machine learning de classificação.
