@@ -38,12 +38,12 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 # ✅ Lista de Projetos
 
 
-<!-- 
+
 ## 🌐 Website Pessoal
 Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
 
 
-🔗 <a href="https://espeditoalves.github.io/Resume_website/" target="_blank">Acessar Website</a> -->
+🔗 <a href="https://espeditoalves.github.io/Resume_website/" target="_blank">Acessar Website</a>
 
 
 
