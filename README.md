@@ -17,21 +17,18 @@
 
 <br>
 
-Desde 2020, atuo diretamente com grandes volumes de dados, desenvolvendo `análises exploratórias`, `dashboards` interativos e `modelos preditivos` utilizando ``técnicas de Machine Learning``.
+Desde 2020, atuo diretamente com grandes volumes de dados, desenvolvendo **análises exploratórias**, **dashboards interativos** e **modelos preditivos** com o uso de técnicas avançadas de **Machine Learning**.
 
-Minha trajetória é movida pela busca constante por inovação: procuro aplicar meu conhecimento técnico em projetos que rompam o convencional e gerem impactos reais. Essa paixão me levou a mergulhar na Ciência de Dados, iniciando uma jornada fascinante de aprendizado e descobertas.
+Sou movido pelo desafio de transformar dados complexos em insights acionáveis e soluções inovadoras. Minha paixão pela tecnologia e matemática me guiou até a Ciência de Dados, onde aplico meus conhecimentos para resolver problemas reais e otimizar processos de forma estratégica.
 
-Aqui você encontrará:
+Neste espaço, você encontrará:
 
-- **`Estudos sobre Ciência de Dados e Programação`**
-- **`Treinamentos práticos e aplicações técnicas`**
-- **`Análises exploratórias de dados`**
-- Projetos de Machine Learning:
-  - **`Modelos supervisionados`**
-  - **`Modelos não supervisionados`**
-- Projetos pessoais documentados na plataforma
+- 📊 **Análises Exploratórias de Dados (EDA)**
+- 🤖 **Projetos de Machine Learning** (Modelos Supervisionados e Não Supervisionados)
+- 💻 **Treinamentos práticos e aplicações técnicas**
+- 📚 **Estudos documentados sobre Ciência de Dados e Programação**
 
-Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
+Sinta-se à vontade para explorar meus repositórios, contribuir com os projetos ou deixar o seu feedback! 🚀
 
 <br></br>
 
@@ -40,7 +37,7 @@ Sinta-se à vontade para explorar, contribuir ou deixar seu feedback! 🚀
 
 
 ## 🌐 Website Pessoal
-Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
+Meu portfólio online contendo um **resumo profissional** da minha trajetória e os **principais projetos** que desenvolvi.
 
 
 🔗 <a href="https://espeditoalves.github.io/Resume_website/" target="_blank">Acessar Website</a>
@@ -48,8 +45,8 @@ Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
 
 
 ## 📊 Análise Exploratória
-- 🔍 **[spotify-history](https://github.com/espeditoalves/spotify-history):** Este projeto tem o objetivo de realizar uma analise detalhada dos dados do meu spotify.
-- 🔍 **[titanic-ml-project](https://github.com/espeditoalves/titanic-ml-project/tree/master)** Projeto de analise exploratória de dados focado em investigar principais informações relevantes para a construção de um modelo machine learning de classificação.
+- 🔍 **[spotify-history](https://github.com/espeditoalves/spotify-history):** Análise detalhada do meu histórico de reprodução no Spotify, extraindo insights sobre meus hábitos musicais.
+- 🔍 **[titanic-ml-project](https://github.com/espeditoalves/titanic-ml-project/tree/master)** Análise exploratória focada em investigar e preparar as variáveis principais para a construção de um modelo de classificação de sobreviventes do Titanic.
 
 
 
@@ -58,16 +55,16 @@ Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
 ### 🧭 Supervisionado
 
 #### 📈 Regressão
-- 📌 **[MLBeerRegression](https://github.com/espeditoalves/MLBeerRegression):** Objetivo deste treinamento será estimar um modelo de Machine Learning utilizando a técnica de Regressão Linear para demonstrar os impactos das variáveis disponibilizadas neste dataset sobre o consumo de cerveja (Y).
+- 📌 **[MLBeerRegression](https://github.com/espeditoalves/MLBeerRegression):** Estudo prático para estimar o consumo de cerveja utilizando a técnica de Regressão Linear, demonstrando o impacto das variáveis do dataset na variável alvo.
 
 #### ✔️ Classificação
-- 🧩 **[MLClassifySimple](https://github.com/espeditoalves/MLClassifySimple):** Este repositório tem o objetivo de construir alguns modelos machine learning de classificação bem simples, para estudos e testes basicos.
-- 🧩 **[MLClassificationMetrics](https://github.com/espeditoalves/MLClassificationMetrics):** Este repositório foi criado para explorar as principais metricas de modelos Machine Learning de classificação supervisionada.
-- 🧩 **[sparklogimetrics](https://github.com/espeditoalves/sparklogimetrics):** Este projeto utiliza uma imagem pyspark dentro de um container docker e tem o objetivo de aplicar algumas técnicas de intervalo de confiança e testes de significância em uma base escorada por um modelo de regressão logística, usando spark para manipular e treinar os dados.
+- 🧩 **[MLClassifySimple](https://github.com/espeditoalves/MLClassifySimple):** Construção e avaliação de modelos básicos de classificação para consolidar conceitos e realizar testes iniciais.
+- 🧩 **[MLClassificationMetrics](https://github.com/espeditoalves/MLClassificationMetrics):** Repositório dedicado à exploração e compreensão aprofundada das principais métricas de avaliação para modelos de classificação supervisionada.
+- 🧩 **[sparklogimetrics](https://github.com/espeditoalves/sparklogimetrics):** Aplicação de técnicas de intervalo de confiança e testes de significância em uma base escorada por Regressão Logística. Utiliza PySpark em container Docker para manipulação e treinamento de dados.
 
 ---
 ### 🧠 Não Supervisionado
-- 🚧 **[deploy-ml-bento](https://github.com/espeditoalves/deploy-ml-bento/tree/master):** Este projeto tem o objetivo de desenvolver o deploy de um modelo de clusterização simples usando o bentoml.
+- 🚧 **[deploy-ml-bento](https://github.com/espeditoalves/deploy-ml-bento/tree/master):** Desenvolvimento e deploy de um modelo de clusterização simples utilizando a framework BentoML.
 
 ---
 ### 🔄 Semi-Supervisionado
@@ -186,7 +183,7 @@ Um site com **resumo profissional** e **alguns projetos desenvolvidos**.
 
 <!-- site gifs: https://giphy.com/-->
 <!-- site gifs: https://giphy.com/ -->
-<p align="center">Obrigado por ter chego até aqui! 😄</p>
+<p align="center">Obrigado por ter chegado até aqui! 😄</p>
 <p align="center">
   <img 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY4Ynh0aGRzYmx6c2tub3VxbHJkc3kxbDlxZ2ZtNTI2eGxoMHQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Data Science Animation" 
